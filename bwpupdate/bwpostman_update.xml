@@ -37,7 +37,7 @@
 		<tags>
 			<tag>stable</tag>
 		</tags>
-		<maintainer>Romana Boldt</maintainer>
+		<maintainer>Romana Bold</maintainer>
 		<maintainerurl>https://www.boldt-webservice.de</maintainerurl>
 
 		<targetplatform name="joomla" version="4.[0123456789]" min_dev_level="0" php_minimum="7.4" />
