@@ -1,1 +1,1 @@
-## Anleitungen, Handbücher und Bilder
+## Anleitungen, Handbücher, Tipps und Bilder
