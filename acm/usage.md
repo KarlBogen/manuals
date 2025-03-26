@@ -12,7 +12,7 @@
 
 Erstellt von KarlK
 
-Stand: März 2024
+Stand: März 2025
 
 <br />
 <a href="https://raw.githubusercontent.com/KarlBogen/manuals/master/acm/handbuch.pdf">Das Handbuch im PDF-Format kann hier heruntergeladen werden.</a>
