@@ -60,6 +60,8 @@ Stand: März 2024
 
 [Anhang 5: TPL_MODIFIED_NOVA](#user-content-anhang-5-tpl-modified-nova)
 
+[Anhang 6: BOOTSTRAP5](#user-content-anhang-6-bootstrap-5)
+
 [Anhang Hilfe / Fehlersuche](#user-content-anhang-hilfe--fehlersuche)
 
 <br /><br />
